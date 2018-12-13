@@ -6,6 +6,7 @@ cont test = () => {
         <View>
             <Text>
                 ddd dddd
+                this is netanel branch !!!!
             </Text>
         </View>
     )
